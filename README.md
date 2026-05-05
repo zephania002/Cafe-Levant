@@ -68,3 +68,4 @@ Café Levant is a cozy coffee shop located at Rubis Kenyatta Avenue Service Stat
 ## License
 
 This project is for educational and demonstration purposes.
+LIVE DEMO https://cafe-levant-rho.vercel.app
